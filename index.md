@@ -57,3 +57,16 @@
 ### w W b B e E ge gE
 ### j k
 ### n N
+
+!SLIDE
+
+# vim-easymotion
+## &lt;Leader&gt;&lt;Leader&gt;{motion key}
+## переход в место подсвеченное символом
+
+!SLIDE
+
+### f{char} F{char} t{char} T{char}
+### w W b B e E ge gE
+### j k
+### n N
