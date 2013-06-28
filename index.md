@@ -30,7 +30,7 @@
 
 !SLIDE
 
-# g G {line}% {line}G
+# gg G {line}% {line}G
 
 !SLIDE
 
@@ -50,19 +50,7 @@
 # vim-easymotion
 ## &lt;Leader&gt;&lt;Leader&gt;{motion key}
 ## переход в место подсвеченное символом
-
-!SLIDE
-
-### f{char} F{char} t{char} T{char}
-### w W b B e E ge gE
-### j k
-### n N
-
-!SLIDE
-
-# vim-easymotion
-## &lt;Leader&gt;&lt;Leader&gt;{motion key}
-## переход в место подсвеченное символом
+## https://github.com/Lokaltog/vim-easymotion
 
 !SLIDE
 
