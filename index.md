@@ -4,7 +4,7 @@
 
 # Vim
 
-## Navigation
+## Навигация по тексту
 
 !SLIDE
 
@@ -70,3 +70,29 @@
 ### w W b B e E ge gE
 ### j k
 ### n N
+
+!SLIDE
+
+# Vim
+
+## Работа с файловой системой
+
+!SLIDE
+
+# Classic
+
+!SLIDE
+
+##:e [FILENAME]
+##:new [FILENAME]
+##:!
+
+!SLIDE
+
+# NERDTree
+## https://github.com/scrooloose/nerdtree
+
+!SLIDE
+
+# ctrlp.vim
+## https://github.com/kien/ctrlp.vim
