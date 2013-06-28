@@ -48,9 +48,12 @@
 !SLIDE
 
 # vim-easymotion
+## https://github.com/Lokaltog/vim-easymotion
+
+!SLIDE
+
 ## &lt;Leader&gt;&lt;Leader&gt;{motion key}
 ## переход в место подсвеченное символом
-## https://github.com/Lokaltog/vim-easymotion
 
 !SLIDE
 
